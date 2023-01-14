@@ -1,0 +1,2 @@
+class MobilStrength extends Mobil {
+}
